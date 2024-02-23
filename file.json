@@ -4,14 +4,14 @@
       {
         "AdsCompany": "mediation",
 
-        "AdmobBanner": "ca-app-pub-7161646055510540/2248272356",
-        "AdmobInterstitial": "ca-app-pub-7161646055510540/3996468292",
-        "AdmobNative": "ca-app-pub-7161646055510540/9405557705",
-	"AdmobRewarded": "ca-app-pub-7161646055510540/2092359687",
+        "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+	"AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
 
-        "FbBanner": "808442213594935_808442870261536",
-        "FbInterstitial": "808442213594935_808442976928192",
-        "FbNative": "808442213594935_808443143594842",
+        "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "FbNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
         "CpaImage": true,
