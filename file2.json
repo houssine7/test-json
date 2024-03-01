@@ -16,7 +16,7 @@
         },
         "elements": [
             {
-                "maxPresCounter": "4",
+                "maxPresCounter": "2",
                 "keys": [
                     "B",
                     "B",
@@ -31,7 +31,7 @@
                     "D",
                     "M"
                 ],
-                "textAnswer": "BIRD",
+                "textAnswer": "BI",
 
 		    
                 "title": "skibidi vs wario",
@@ -48,7 +48,7 @@
             },
 		
             {
-                "maxPresCounter": "4",
+                "maxPresCounter": "3",
                 "keys": [
                     "R",
                     "I",
@@ -63,7 +63,7 @@
                     "D",
                     "X"
                 ],
-                "textAnswer": "BIRD",
+                "textAnswer": "BIR",
 
 		    
                 "title": "Steve and Alex Skibidi Toilet",
