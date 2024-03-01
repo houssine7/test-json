@@ -18,18 +18,18 @@
             {
                 "maxPresCounter": "4",
                 "keys": [
-                    "R",
-                    "I",
                     "B",
-                    "D",
-                    "X"
+                    "B",
+                    "I",
+                    "R",
+                    "R"
                 ],
                 "keys2": [
-                    "R",
                     "I",
-                    "B",
+                    "M",
                     "D",
-                    "X"
+                    "D",
+                    "M"
                 ],
                 "textAnswer": "BIRD",
 
