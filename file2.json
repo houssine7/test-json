@@ -18,20 +18,20 @@
             {
                 "maxPresCounter": "2",
                 "keys": [
-                    "B",
-                    "B",
-                    "I",
+                    "A",
+                    "A",
+                    "A",
                     "R",
                     "R"
                 ],
                 "keys2": [
-                    "I",
-                    "M",
-                    "D",
-                    "D",
-                    "M"
+                    "B",
+                    "B",
+                    "B",
+                    "B",
+                    "B"
                 ],
-                "textAnswer": "BI",
+                "textAnswer": "AA",
 
 		    
                 "title": "skibidi vs wario",
@@ -50,20 +50,52 @@
             {
                 "maxPresCounter": "3",
                 "keys": [
-                    "R",
-                    "I",
+                    "A",
+                    "O",
                     "B",
-                    "D",
+                    "B",
                     "X"
                 ],
                 "keys2": [
-                    "R",
-                    "I",
                     "B",
-                    "D",
+                    "B",
+                    "B",
+                    "B",
                     "X"
                 ],
-                "textAnswer": "BIR",
+                "textAnswer": "BBB",
+
+		    
+                "title": "Steve and Alex Skibidi Toilet",
+                "image": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/t%C3%A9l%C3%A9chargement.jpg",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "play",
+                "setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
+                "image_link": "",
+                "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+                "isNative": true,
+                "background": "#000000"
+            },
+		
+            {
+                "maxPresCounter": "4",
+                "keys": [
+                    "Z",
+                    "E",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "keys2": [
+                    "F",
+                    "S",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "textAnswer": "CCCC",
 
 		    
                 "title": "Steve and Alex Skibidi Toilet",
@@ -78,6 +110,7 @@
                 "isNative": true,
                 "background": "#000000"
             }
+		
         ]
     }
 }
