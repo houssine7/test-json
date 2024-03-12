@@ -1,0 +1,110 @@
+{
+    "AppingoData": {
+        "ObjectAds": {
+            "Style": "mediation",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+            "AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
+            "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+            "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+            "FbNative": "IMG_16_9_APP_INSTALL#1502571686779063_1502572666778965",
+            "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+            "IsCpa": false,
+            "CpaImage": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
+            "CpaDirection": "https://fastsvr.com/list/498307"
+        },
+        "levels": [
+            {
+                "maxPresCounter": "2",
+                "keys": [
+                    "A",
+                    "A",
+                    "A",
+                    "R"
+                ],
+                "keys2": [
+                    "B",
+                    "B",
+                    "B",
+                    "B"
+                ],
+                "textAnswer": "AA",
+
+		    
+                "title": "skibidi vs wario",
+                "image": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/skibidi%20vs%20wario.jpg",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Skibidi Toilet vs Wario is an interesting adventure game to play. Race against the Wario and win the game as a Skibidi. Collect all the items on the way and avoid the traps around you which can destroy you instantly. Try to be as fast as you can and race against the Wario. Enjoy all the challenging levels and win the game.",
+                "isNative": true,
+                "background": "#000000"
+            },
+		
+            {
+                "maxPresCounter": "3",
+                "keys": [
+                    "A",
+                    "O",
+                    "B",
+                    "X"
+                ],
+                "keys2": [
+                    "B",
+                    "B",
+                    "B",
+                    "X"
+                ],
+                "textAnswer": "BBB",
+
+		    
+                "title": "Steve and Alex Skibidi Toilet",
+                "image": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/t%C3%A9l%C3%A9chargement.jpg",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "play",
+                "setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
+                "image_link": "",
+                "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+                "isNative": true,
+                "background": "#000000"
+            },
+		
+            {
+                "maxPresCounter": "4",
+                "keys": [
+                    "Z",
+                    "C",
+                    "C",
+                    "C"
+                ],
+                "keys2": [
+                    "F",
+                    "S",
+                    "C",
+                    "C"
+                ],
+                "textAnswer": "CCCC",
+
+		    
+                "title": "Steve and Alex Skibidi Toilet",
+                "image": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/t%C3%A9l%C3%A9chargement.jpg",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "play",
+                "setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
+                "image_link": "",
+                "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+                "isNative": true,
+                "background": "#000000"
+            }
+		
+        ]
+    }
+}
