@@ -16,24 +16,24 @@
         },
         "levels": [
             {
-                "maxPresCounter": "2",
+                "maxPresCounter": "8",
                 "keys": [
-                    "A",
-                    "A",
-                    "A",
-                    "R"
+                    "P",
+                    "O",
+                    "C",
+                    "H"
                 ],
                 "keys2": [
-                    "B",
-                    "B",
-                    "B",
-                    "B"
+                    "I",
+                    "N",
+                    "K",
+                    "I"
                 ],
-                "textAnswer": "AA",
+                "textAnswer": "POCHINKI",
 
 		    
-                "title": "skibidi vs wario",
-                "levelImage": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/skibidi%20vs%20wario.jpg",
+                "title": "pochinki",
+                "levelImage": "https://cdn.vcgamers.com/news/wp-content/uploads/2021/12/Pochinki-PUBG-Mobile.jpg",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
