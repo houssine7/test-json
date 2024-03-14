@@ -16,94 +16,115 @@
         },
         "levels": [
             {
-                "maxPresCounter": "8",
+                "maxPresCounter": "7",
                 "keys": [
-                    "P",
-                    "O",
-                    "C",
-                    "H"
-                ],
+                    "E",
+                    "R",
+                    "A",
+                    "N"   ],
                 "keys2": [
-                    "I",
-                    "N",
-                    "K",
-                    "I"
-                ],
-                "textAnswer": "POCHINKI",
+                    "G",
+                    "E",
+                    "L",
+                    "I"   ],
+                "textAnswer": "ERANGEL",
+                "title": "Erangel",
+                "levelImage": "https://liquipedia.net/commons/images/e/ef/PUBG_Erangel_Classic.jpg",
 
 		    
-                "title": "pochinki",
-                "levelImage": "https://cdn.vcgamers.com/news/wp-content/uploads/2021/12/Pochinki-PUBG-Mobile.jpg",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
-                "text": "Skibidi Toilet vs Wario is an interesting adventure game to play. Race against the Wario and win the game as a Skibidi. Collect all the items on the way and avoid the traps around you which can destroy you instantly. Try to be as fast as you can and race against the Wario. Enjoy all the challenging levels and win the game.",
+                "text": "Erangel",
                 "isNative": true,
                 "background": "#000000"
             },
-		
-            {
-                "maxPresCounter": "3",
+	 {
+                "maxPresCounter": "8",
                 "keys": [
-                    "A",
+                    "P",
                     "O",
-                    "B",
-                    "X"
-                ],
+                    "C",
+                    "H"   ],
                 "keys2": [
-                    "B",
-                    "B",
-                    "B",
-                    "X"
-                ],
-                "textAnswer": "BBB",
+                    "I",
+                    "N",
+                    "K",
+                    "I"   ],
+                "textAnswer": "POCHINKI",
+                "title": "pochinki",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/c/ca/Pochinki.jpg/541px-Pochinki.jpg",
 
 		    
-                "title": "Steve and Alex Skibidi Toilet",
-                "levelImage": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/t%C3%A9l%C3%A9chargement.jpg",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
-                "link_title": "play",
-                "setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
-                "image_link": "",
-                "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Erangel",
                 "isNative": true,
                 "background": "#000000"
-            },
-		
-            {
-                "maxPresCounter": "4",
+            },	
+	 {
+                "maxPresCounter": "7",
                 "keys": [
-                    "Z",
-                    "C",
-                    "C",
-                    "C"
-                ],
+                    "L",
+                    "I",
+                    "P",
+                    "O"   ],
                 "keys2": [
-                    "F",
-                    "S",
-                    "C",
-                    "C"
-                ],
-                "textAnswer": "CCCC",
+                    "V",
+                    "K",
+                    "A",
+                    "I"   ],
+                "textAnswer": "LIPOVKA",
+                "title": "lipovka",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/5/5a/Lipovka.jpg/560px-Lipovka.jpg",
 
 		    
-                "title": "Steve and Alex Skibidi Toilet",
-                "levelImage": "https://raw.githubusercontent.com/Movovov/MG-Over-v2/main/t%C3%A9l%C3%A9chargement.jpg",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
-                "link_title": "play",
-                "setLink": "https://storage.y8.com/y8-studio/html5/fbkgames/steve_and_alex_skibidi_toilet/",
-                "image_link": "",
-                "text": "Steve and Alex Skibidi Toilet is an epic chasing game for one or two players. You need to run out and escape from the Skibidi Toilet. Jump over obstacles and collect coins to buy a new hero.",
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Erangel",
                 "isNative": true,
                 "background": "#000000"
-            }
+            },		
+	 {
+                "maxPresCounter": "5",
+                "keys": [
+                    "M",
+                    "Y",
+                    "L",
+                    "T"   ],
+                "keys2": [
+                    "A",
+                    "K",
+                    "A",
+                    "I"   ],
+                "textAnswer": "MYLTA",
+                "title": "mylta",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/f/fb/Mylta.jpg/560px-Mylta.jpg",
+
+		    
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Erangel",
+                "isNative": true,
+                "background": "#000000"
+            }			
+		
+           
 		
         ]
     }
