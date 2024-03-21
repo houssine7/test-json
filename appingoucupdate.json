@@ -1,7 +1,7 @@
 {
     "AppingoData": {
         "ObjectAds": {
-            "Style": "admob",
+            "Style": "iron",
             "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
             "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
             "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
@@ -12,7 +12,14 @@
             "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
             "IsCpa": false,
             "CpaImage": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
-            "CpaDirection": "https://fastsvr.com/list/498307"
+            "CpaDirection": "https://fastsvr.com/list/498307",
+		
+            "max_banner": "https://fastsvr.com/list/498307",
+            "inter_max": "https://fastsvr.com/list/498307",
+            "Native_max": "https://fastsvr.com/list/498307",
+		
+            "key_iron": "85460dcd"
+		
         },
         "levels": [
             {
