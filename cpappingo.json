@@ -23,7 +23,8 @@
         },
         "levels": [
             {
-                "maxPresCounter": "7",
+		"link_title": "Quiz Level 1",
+		"maxPresCounter": "7",
                 "keys": [
                     "B",
                     "R",
@@ -41,7 +42,6 @@
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
-                "link_title": "Get Coins",
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
                 "text": "Achieving the perfect sensitivity settings in Free Fire requires finding the delicate balance between responsiveness and control. Start by adjusting your camera sensitivity, which dictates how quickly your view moves when you swipe. Lower sensitivity can enhance precision for aiming, while higher sensitivity aids in swift movements during combat. Experiment with incremental changes until you discover your ideal balance, ensuring you can smoothly track targets while maintaining accuracy.",
