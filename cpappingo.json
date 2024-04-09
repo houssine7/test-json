@@ -23,22 +23,23 @@
         },
         "levels": [
             {
-		"link_title": "Quiz Level 1",
-		"maxPresCounter": "7",
+		"maxPresCounter": "5",
                 "keys": [
-                    "B",
+                    "C",
                     "R",
                     "A",
-                    "E"   ],
+                    "S"   ],
                 "keys2": [
-                    "M",
-                    "U",
+                    "H",
+                    "W",
                     "D",
                     "I"   ],
-                "textAnswer": "BERMUDA",
-                "levelImage": "https://liquipedia.net/commons/images/thumb/2/27/Map_FF_Bermuda_allmode.jpeg/900px-Map_FF_Bermuda_allmode.jpeg",
+                "textAnswer": "CRASH",
+                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/6/6e/Crash_Map_Image_MWR.png",
 
-		   "title": "Finding the Sweet Spot with Sensitivity",
+		   "title": "Level 1",
+		    		"link_title": "Quiz Level 1",
+
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -51,19 +52,19 @@
 	 {
                 "maxPresCounter": "8",
                 "keys": [
-                    "K",
-                    "A",
-                    "L",
-                    "A"   ],
+                    "C",
+                    "R",
+                    "O",
+                    "S"   ],
                 "keys2": [
-                    "H",
-                    "A",
+                    "S",
+                    "F",
                     "R",
                     "I"   ],
-                "textAnswer": "KALAHARI",
-                "levelImage": "https://liquipedia.net/commons/images/thumb/f/f1/Map_FF_Kalahari_allmode.jpeg/900px-Map_FF_Kalahari_allmode.jpeg",
+                "textAnswer": "CROSSFIR",
+                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/0/06/CODM_Crossfire.jpg",
 
-		"title": "Scoping Precision: Sensitivity Settings",
+		"title": "Level 2",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -76,21 +77,21 @@
                 "background": "#000000"
             },	
 	 {
-                "maxPresCounter": "6",
+                "maxPresCounter": "4",
                 "keys": [
-                    "A",
-                    "L",
-                    "P",
+                    "R",
+                    "U",
+                    "S",
                     "I"   ],
                 "keys2": [
                     "N",
                     "E",
                     "A",
-                    "I"   ],
-                "textAnswer": "ALPINE",
-                "levelImage": "https://liquipedia.net/commons/images/thumb/d/dd/Map_FF_Alpine_allmode.jpeg/900px-Map_FF_Alpine_allmode.jpeg",
+                    "T"   ],
+                "textAnswer": "RUST",
+                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/f/f7/Rust_Promo4_CODM.jpg",
 
-                "title": "Zooming in on Control: Scoped Sensitivity",
+                "title": "Level 3",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -102,21 +103,21 @@
                 "background": "#000000"
             },		
 	 {
-                "maxPresCounter": "4",
+                "maxPresCounter": "8",
                 "keys": [
-                    "D",
-                    "O",
-                    "L",
-                    "T"   ],
-                "keys2": [
-                    "C",
-                    "K",
+                    "S",
+                    "T",
                     "A",
-                    "I"   ],
-                "textAnswer": "DOCK",
-                "levelImage": "https://liquipedia.net/commons/images/thumb/4/4c/Alpine_Dock.jpeg/541px-Alpine_Dock.jpeg",
+                    "D"   ],
+                "keys2": [
+                    "N",
+                    "O",
+                    "F",
+                    "F"   ],
+                "textAnswer": "STANDOFF",
+                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/1/1f/Standoff_Load_Screen_BOII.png",
 
-	        "title": "Targeting Precision: Scoped Sensitivity Mastery",
+	        "title": "Level 4",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
