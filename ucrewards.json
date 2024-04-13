@@ -23,19 +23,19 @@
         },
         "levels": [
             {
-		"maxPresCounter": "5",
+		"maxPresCounter": "7",
                 "keys": [
-                    "C",
+                    "E",
                     "R",
                     "A",
-                    "S"   ],
+                    "N"   ],
                 "keys2": [
-                    "H",
-                    "W",
-                    "D",
+                    "G",
+                    "E",
+                    "L",
                     "I"   ],
-                "textAnswer": "CRASH",
-                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/6/6e/Crash_Map_Image_MWR.png",
+                "textAnswer": "ERANGEL",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/e/ef/PUBG_Erangel_Classic.jpg/600px-PUBG_Erangel_Classic.jpg",
 
 		   "title": "Level 1",
 		    		"link_title": "Quiz Level 1",
@@ -50,19 +50,19 @@
                 "background": "#ffffff"
             },
 	 {
-                "maxPresCounter": "8",
+                "maxPresCounter": "7",
                 "keys": [
-                    "C",
+                    "M",
+                    "I",
                     "R",
-                    "O",
-                    "S"   ],
+                    "A"   ],
                 "keys2": [
-                    "S",
-                    "F",
+                    "M",
+                    "A",
                     "R",
                     "I"   ],
-                "textAnswer": "CROSSFIR",
-                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/0/06/CODM_Crossfire.jpg",
+                "textAnswer": "MIRAMAR",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/8/85/PUBG_Miramar_3.0_Map.jpg/600px-PUBG_Miramar_3.0_Map.jpg",
 
 		"title": "Level 2",
                 "color": "#000000",
@@ -77,19 +77,19 @@
                 "background": "#ffffff"
             },	
 	 {
-                "maxPresCounter": "4",
+                "maxPresCounter": "7",
                 "keys": [
-                    "R",
-                    "U",
-                    "S",
-                    "I"   ],
+                    "L",
+                    "I",
+                    "P",
+                    "O"   ],
                 "keys2": [
-                    "N",
-                    "E",
+                    "V",
+                    "K",
                     "A",
                     "T"   ],
-                "textAnswer": "RUST",
-                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/f/f7/Rust_Promo4_CODM.jpg",
+                "textAnswer": "LIPOVKA",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/5/5a/Lipovka.jpg/374px-Lipovka.jpg",
 
                 "title": "Level 3",
                 "color": "#000000",
@@ -103,19 +103,19 @@
                 "background": "#ffffff"
             },		
 	 {
-                "maxPresCounter": "8",
+                "maxPresCounter": "6",
                 "keys": [
-                    "S",
+                    "P",
                     "T",
-                    "A",
-                    "D"   ],
+                    "R",
+                    "S"   ],
                 "keys2": [
                     "N",
                     "O",
                     "F",
                     "F"   ],
-                "textAnswer": "STANDOFF",
-                "levelImage": "https://static.wikia.nocookie.net/callofduty/images/1/1f/Standoff_Load_Screen_BOII.png",
+                "textAnswer": "PRISON",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/0/0f/Prison.jpg/306px-Prison.jpg",
 
 	        "title": "Level 4",
                 "color": "#000000",
