@@ -45,7 +45,7 @@
                 "isLink": true,
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
-                "text": "Achieving the perfect sensitivity settings in Free Fire requires finding the delicate balance between responsiveness and control. Start by adjusting your camera sensitivity, which dictates how quickly your view moves when you swipe. Lower sensitivity can enhance precision for aiming, while higher sensitivity aids in swift movements during combat. Experiment with incremental changes until you discover your ideal balance, ensuring you can smoothly track targets while maintaining accuracy.",
+                "text": "Choose your landing spot wisely. Opt for less crowded areas to loot up safely at the start. Look for compounds or buildings with multiple floors to find loot efficiently. Avoid hot drop zones unless you're confident in your combat skills. Once you land, keep an eye out for nearby enemies and be ready to defend yourself.",
                 "isNative": true,
                 "background": "#ffffff"
             },
@@ -72,7 +72,7 @@
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
 		 
-                "text": "When it comes to scopes in Free Fire, fine-tuning sensitivity parameters is paramount for achieving pinpoint accuracy. Different scopes, such as the 2x, 4x, and 8x, require distinct sensitivity adjustments to maintain precision across varying magnifications. Lower sensitivity values for scoped aiming can stabilize your crosshair, facilitating precise long-range shots with minimal sway. Conversely, higher sensitivity settings enable swift adjustments when scanning the battlefield or engaging targets at different distances. Experimentation with scoped sensitivity is crucial for finding the balance between control and responsiveness, ensuring consistent performance in intense firefights.",
+                "text": "Prioritize finding a versatile weapon combination early on, such as an assault rifle and a shotgun or a sniper rifle and a close-range weapon. Customize your loadout based on your playstyle and map terrain. Remember to attach appropriate scopes and accessories for better performance. Practice with different weapons to find your preferred setup.",
                 "isNative": true,
                 "background": "#ffffff"
             },	
@@ -98,7 +98,7 @@
                 "link_title": "Get Coins",
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
-                "text": "Customizing scoped sensitivity in Free Fire is essential for maintaining control and accuracy when using magnified optics. Begin by adjusting your sensitivity settings specifically for scoped aiming, tailoring them to match your preferred magnification levels and playstyle. Lower sensitivity values provide finer control over crosshair movements, allowing for steady tracking of distant targets and precise adjustments for headshots. In contrast, higher sensitivity settings offer quicker responsiveness, enabling rapid target acquisition and fluid aiming transitions between multiple adversaries. Regularly reassess and refine scoped sensitivity parameters to adapt to different scopes and enhance your effectiveness in long-range engagements.",
+                "text": "Familiarize yourself with the map to plan your movements strategically. Utilize vehicles for faster rotations and to cover long distances quickly. Pay attention to the shrinking play zone and position yourself accordingly to avoid getting caught outside the safe zone. Use landmarks and terrain features to navigate efficiently and anticipate enemy movements.",
                 "isNative": true,
                 "background": "#ffffff"
             },		
@@ -116,7 +116,6 @@
                     "F"   ],
                 "textAnswer": "PRISON",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/0/0f/Prison.jpg/306px-Prison.jpg",
-
 	        "title": "Level 4",
                 "color": "#000000",
                 "text_size": "20",
@@ -125,10 +124,66 @@
                 "setLink": "https://www.google.com",
                 "image_link": "https://www.google.com",
 		 
-                "text": "Refining scoped sensitivity parameters is instrumental in elevating your aiming proficiency with magnified optics in Free Fire. Experiment with different sensitivity settings tailored to each scope's magnification level, fine-tuning them to strike the optimal balance between precision and responsiveness. Lower sensitivity values enhance stability, allowing for precise adjustments and accurate shots at long distances without sacrificing control. On the other hand, higher sensitivity settings foster agility, enabling swift target acquisition and fluid aiming transitions during intense firefights. Regularly reassess and adjust scoped sensitivity parameters to adapt to changing gameplay dynamics and maximize your effectiveness in long-range engagements.",
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+		 {
+                "maxPresCounter": "7",
+                "keys": [
+                    "S",
+                    "E",
+                    "V",
+                    "E"   ],
+                "keys2": [
+                    "R",
+                    "N",
+                    "E",
+                    "Y"   ],
+                "textAnswer": "SEVERNY",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/6/6c/Severny.jpg/560px-Severny.jpg",
+	        "title": "Level 5",
+			 
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+		 
+                "text": "Manage your inventory wisely by prioritizing essential items like healing supplies, ammunition, and grenades. Keep an eye on your surroundings and be aware of potential threats, such as incoming gunfire or enemy footsteps. Stay on the move to avoid becoming an easy target for snipers and campers. Utilize sound cues to detect nearby enemies and plan your actions accordingly.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+
+		 {
+                "maxPresCounter": "6",
+                "keys": [
+                    "Z",
+                    "H",
+                    "A",
+                    "R"   ],
+                "keys2": [
+                    "K",
+                    "I",
+                    "F",
+                    "F"   ],
+                "textAnswer": "PRISON",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/b/b0/Zharki.jpg/560px-Zharki.jpg",
+	        "title": "Level 6",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+		 
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
                 "isNative": true,
                 "background": "#ffffff"
             }			
+
+		
 		
            
 		
