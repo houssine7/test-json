@@ -37,7 +37,7 @@
                 "textAnswer": "BERMUDA",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/2/27/Map_FF_Bermuda_allmode.jpeg/900px-Map_FF_Bermuda_allmode.jpeg",
 
-		   "title": "Finding the Sweet Spot with Sensitivity",
+		   "title": "Level 1",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -63,7 +63,7 @@
                 "textAnswer": "KALAHARI",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/f/f1/Map_FF_Kalahari_allmode.jpeg/900px-Map_FF_Kalahari_allmode.jpeg",
 
-		"title": "Scoping Precision: Sensitivity Settings",
+		"title": "Level 2",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -90,7 +90,7 @@
                 "textAnswer": "ALPINE",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/d/dd/Map_FF_Alpine_allmode.jpeg/900px-Map_FF_Alpine_allmode.jpeg",
 
-                "title": "Zooming in on Control: Scoped Sensitivity",
+                "title": "Level 3",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
@@ -116,7 +116,7 @@
                 "textAnswer": "DOCK",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/4/4c/Alpine_Dock.jpeg/541px-Alpine_Dock.jpeg",
 
-	        "title": "Targeting Precision: Scoped Sensitivity Mastery",
+	        "title": "Level 4",
                 "color": "#ffffff",
                 "text_size": "20",
                 "isLink": true,
