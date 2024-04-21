@@ -1,0 +1,136 @@
+{
+    "AppingoData": {
+        "ObjectAds": {
+            "Style": "iron",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+            "AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
+            "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+            "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+            "FbNative": "IMG_16_9_APP_INSTALL#1502571686779063_1502572666778965",
+            "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+            "IsCpa": false,
+            "CpaImage": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
+            "CpaDirection": "https://fastsvr.com/list/498307",
+		
+            "max_banner": "https://fastsvr.com/list/498307",
+            "inter_max": "https://fastsvr.com/list/498307",
+            "Native_max": "https://fastsvr.com/list/498307",
+		
+            "key_iron": "1e0965a7d"
+		
+        },
+        "levels": [
+            {
+                "maxPresCounter": "7",
+                "keys": [
+                    "B",
+                    "R",
+                    "A",
+                    "E"   ],
+                "keys2": [
+                    "M",
+                    "U",
+                    "D",
+                    "I"   ],
+                "textAnswer": "BERMUDA",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/2/27/Map_FF_Bermuda_allmode.jpeg/900px-Map_FF_Bermuda_allmode.jpeg",
+
+		   "title": "Finding the Sweet Spot with Sensitivity",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Achieving the perfect sensitivity settings in Free Fire requires finding the delicate balance between responsiveness and control. Start by adjusting your camera sensitivity, which dictates how quickly your view moves when you swipe. Lower sensitivity can enhance precision for aiming, while higher sensitivity aids in swift movements during combat. Experiment with incremental changes until you discover your ideal balance, ensuring you can smoothly track targets while maintaining accuracy.",
+                "isNative": true,
+                "background": "#000000"
+            },
+	 {
+                "maxPresCounter": "8",
+                "keys": [
+                    "K",
+                    "A",
+                    "L",
+                    "A"   ],
+                "keys2": [
+                    "H",
+                    "A",
+                    "R",
+                    "I"   ],
+                "textAnswer": "KALAHARI",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/f/f1/Map_FF_Kalahari_allmode.jpeg/900px-Map_FF_Kalahari_allmode.jpeg",
+
+		"title": "Scoping Precision: Sensitivity Settings",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+		 
+                "text": "When it comes to scopes in Free Fire, fine-tuning sensitivity parameters is paramount for achieving pinpoint accuracy. Different scopes, such as the 2x, 4x, and 8x, require distinct sensitivity adjustments to maintain precision across varying magnifications. Lower sensitivity values for scoped aiming can stabilize your crosshair, facilitating precise long-range shots with minimal sway. Conversely, higher sensitivity settings enable swift adjustments when scanning the battlefield or engaging targets at different distances. Experimentation with scoped sensitivity is crucial for finding the balance between control and responsiveness, ensuring consistent performance in intense firefights.",
+                "isNative": true,
+                "background": "#000000"
+            },	
+	 {
+                "maxPresCounter": "6",
+                "keys": [
+                    "A",
+                    "L",
+                    "P",
+                    "I"   ],
+                "keys2": [
+                    "N",
+                    "E",
+                    "A",
+                    "I"   ],
+                "textAnswer": "ALPINE",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/d/dd/Map_FF_Alpine_allmode.jpeg/900px-Map_FF_Alpine_allmode.jpeg",
+
+                "title": "Zooming in on Control: Scoped Sensitivity",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+                "text": "Customizing scoped sensitivity in Free Fire is essential for maintaining control and accuracy when using magnified optics. Begin by adjusting your sensitivity settings specifically for scoped aiming, tailoring them to match your preferred magnification levels and playstyle. Lower sensitivity values provide finer control over crosshair movements, allowing for steady tracking of distant targets and precise adjustments for headshots. In contrast, higher sensitivity settings offer quicker responsiveness, enabling rapid target acquisition and fluid aiming transitions between multiple adversaries. Regularly reassess and refine scoped sensitivity parameters to adapt to different scopes and enhance your effectiveness in long-range engagements.",
+                "isNative": true,
+                "background": "#000000"
+            },		
+	 {
+                "maxPresCounter": "4",
+                "keys": [
+                    "D",
+                    "O",
+                    "L",
+                    "T"   ],
+                "keys2": [
+                    "C",
+                    "K",
+                    "A",
+                    "I"   ],
+                "textAnswer": "DOCK",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/4/4c/Alpine_Dock.jpeg/541px-Alpine_Dock.jpeg",
+
+	        "title": "Targeting Precision: Scoped Sensitivity Mastery",
+                "color": "#ffffff",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://www.google.com",
+                "image_link": "https://www.google.com",
+		 
+                "text": "Refining scoped sensitivity parameters is instrumental in elevating your aiming proficiency with magnified optics in Free Fire. Experiment with different sensitivity settings tailored to each scope's magnification level, fine-tuning them to strike the optimal balance between precision and responsiveness. Lower sensitivity values enhance stability, allowing for precise adjustments and accurate shots at long distances without sacrificing control. On the other hand, higher sensitivity settings foster agility, enabling swift target acquisition and fluid aiming transitions during intense firefights. Regularly reassess and adjust scoped sensitivity parameters to adapt to changing gameplay dynamics and maximize your effectiveness in long-range engagements.",
+                "isNative": true,
+                "background": "#000000"
+            }			
+		
+           
+		
+        ]
+    }
+}
