@@ -1,0 +1,266 @@
+{
+    "AppingoData": {
+        "ObjectAds": {
+            "Style": "iron",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+            "AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
+            "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+            "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+            "FbNative": "IMG_16_9_APP_INSTALL#1502571686779063_1502572666778965",
+            "FbLittleNative": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+            "IsCpa": false,
+            "CpaImage": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
+            "CpaDirection": "https://fastsvr.com/list/498307",
+		
+            "max_banner": "https://fastsvr.com/list/498307",
+            "inter_max": "https://fastsvr.com/list/498307",
+            "Native_max": "https://fastsvr.com/list/498307",
+		
+            "key_iron": "109ea4d15"
+		
+        },
+        "levels": [
+            {
+		"maxPresCounter": "7",
+                "keys": [
+                    "E",
+                    "R",
+                    "A",
+                    "N"   ],
+                "keys2": [
+                    "G",
+                    "E",
+                    "L",
+                    "I"   ],
+                "textAnswer": "ERANGEL",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/e/ef/PUBG_Erangel_Classic.jpg/600px-PUBG_Erangel_Classic.jpg",
+
+		   "title": "Level 1",
+		    		"link_title": "Quiz Level 1",
+
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Click the image above to explore fast UC offers!",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+	 {
+                "maxPresCounter": "7",
+                "keys": [
+                    "M",
+                    "I",
+                    "R",
+                    "A"   ],
+                "keys2": [
+                    "M",
+                    "A",
+                    "R",
+                    "I"   ],
+                "textAnswer": "MIRAMAR",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/8/85/PUBG_Miramar_3.0_Map.jpg/600px-PUBG_Miramar_3.0_Map.jpg",
+
+		"title": "Level 2",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Prioritize finding a versatile weapon combination early on, such as an assault rifle and a shotgun or a sniper rifle and a close-range weapon. Customize your loadout based on your playstyle and map terrain. Remember to attach appropriate scopes and accessories for better performance. Practice with different weapons to find your preferred setup.",
+                "isNative": true,
+                "background": "#ffffff"
+            },	
+	 {
+                "maxPresCounter": "7",
+                "keys": [
+                    "L",
+                    "I",
+                    "P",
+                    "O"   ],
+                "keys2": [
+                    "V",
+                    "K",
+                    "A",
+                    "T"   ],
+                "textAnswer": "LIPOVKA",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/5/5a/Lipovka.jpg/374px-Lipovka.jpg",
+
+                "title": "Level 3",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Familiarize yourself with the map to plan your movements strategically. Utilize vehicles for faster rotations and to cover long distances quickly. Pay attention to the shrinking play zone and position yourself accordingly to avoid getting caught outside the safe zone. Use landmarks and terrain features to navigate efficiently and anticipate enemy movements.",
+                "isNative": true,
+                "background": "#ffffff"
+            },		
+	 {
+                "maxPresCounter": "6",
+                "keys": [
+                    "P",
+                    "I",
+                    "R",
+                    "S"   ],
+                "keys2": [
+                    "N",
+                    "O",
+                    "F",
+                    "F"   ],
+                "textAnswer": "PRISON",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/0/0f/Prison.jpg/306px-Prison.jpg",
+	        "title": "Level 4",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+		 {
+                "maxPresCounter": "7",
+                "keys": [
+                    "S",
+                    "E",
+                    "V",
+                    "E"   ],
+                "keys2": [
+                    "R",
+                    "N",
+                    "E",
+                    "Y"   ],
+                "textAnswer": "SEVERNY",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/6/6c/Severny.jpg/560px-Severny.jpg",
+	        "title": "Level 5",
+			 
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+               "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Manage your inventory wisely by prioritizing essential items like healing supplies, ammunition, and grenades. Keep an eye on your surroundings and be aware of potential threats, such as incoming gunfire or enemy footsteps. Stay on the move to avoid becoming an easy target for snipers and campers. Utilize sound cues to detect nearby enemies and plan your actions accordingly.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+
+		 {
+                "maxPresCounter": "6",
+                "keys": [
+                    "Z",
+                    "H",
+                    "A",
+                    "R"   ],
+                "keys2": [
+                    "K",
+                    "I",
+                    "F",
+                    "F"   ],
+                "textAnswer": "PRISON",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/b/b0/Zharki.jpg/560px-Zharki.jpg",
+	        "title": "Level 6",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "isNative": true,
+                "background": "#ffffff"
+            }	,		
+	 {
+                "maxPresCounter": "5",
+                "keys": [
+                    "T",
+                    "A",
+                    "E",
+                    "S"   ],
+                "keys2": [
+                    "G",
+                    "O",
+                    "F",
+                    "F"   ],
+                "textAnswer": "TAEGO",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/6/6d/PUBG_Taego_Cover.jpg/427px-PUBG_Taego_Cover.jpg",
+	        "title": "Level 7",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+		 {
+                "maxPresCounter": "6",
+                "keys": [
+                    "S",
+                    "D",
+                    "V",
+                    "E"   ],
+                "keys2": [
+                    "T",
+                    "N",
+                    "O",
+                    "Y"   ],
+                "textAnswer": "DESTON",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/1/15/PUBG_Deston_Cover.jpg/427px-PUBG_Deston_Cover.jpg",
+	        "title": "Level 8",
+			 
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+               "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Manage your inventory wisely by prioritizing essential items like healing supplies, ammunition, and grenades. Keep an eye on your surroundings and be aware of potential threats, such as incoming gunfire or enemy footsteps. Stay on the move to avoid becoming an easy target for snipers and campers. Utilize sound cues to detect nearby enemies and plan your actions accordingly.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+
+		 {
+                "maxPresCounter": "5",
+                "keys": [
+                    "Z",
+                    "H",
+                    "A",
+                    "V"   ],
+                "keys2": [
+                    "E",
+                    "I",
+                    "N",
+                    "F"   ],
+                "textAnswer": "HAVEN",
+                "levelImage": "https://liquipedia.net/commons/images/thumb/4/45/PUBG_Haven_Cover.jpg/507px-PUBG_Haven_Cover.jpg",
+	        "title": "Level 9",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "isNative": true,
+                "background": "#ffffff"
+            }			
+
+
+		
+		
+           
+		
+        ]
+    }
+}
