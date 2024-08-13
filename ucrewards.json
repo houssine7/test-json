@@ -1,7 +1,7 @@
 {
     "AppingoData": {
         "ObjectAds": {
-            "Style": "iron",
+            "Style": "mediation",
             "AdmobBanner": "ca-app-pub-7585393566140770/7543092568",
             "AdmobInterstitial": "ca-app-pub-7585393566140770/4525212836",
             "AdmobNative": "ca-app-pub-7585393566140770/5407883814",
@@ -45,7 +45,7 @@
                 "isLink": true,
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Click the image above to explore fast UC offers!",
+                "text": "",
                 "isNative": true,
                 "background": "#ffffff"
             },
