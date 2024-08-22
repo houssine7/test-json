@@ -2,10 +2,10 @@
     "AppingoData": {
         "ObjectAds": {
             "Style": "iron",
-            "AdmobBanner": "ca-app-pub-7585393566140770/7543092568",
-            "AdmobInterstitial": "ca-app-pub-7585393566140770/4525212836",
-            "AdmobNative": "ca-app-pub-7585393566140770/5407883814",
-            "AdmobRewarded": "ca-app-pub-7585393566140770/4277800827",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+            "AdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
             "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
             "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
             "FbNative": "IMG_16_9_APP_INSTALL#1502571686779063_1502572666778965",
