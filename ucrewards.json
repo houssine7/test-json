@@ -1,14 +1,11 @@
 {
     "AppingoData": {
         "ObjectAds": {
-		
             "Style": "mediation",
-		
             "AdmobBanner": "ca-app-pub-7585393566140770/2668683563",
             "AdmobInterstitial": "ca-app-pub-7585393566140770/6739590821",
             "AdmobNative": "ca-app-pub-7585393566140770/6959282369",
             "AdmobRewarded": "ca-app-pub-7585393566140770/9073605540",
-		
             "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
             "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
             "FbNative": "IMG_16_9_APP_INSTALL#1502571686779063_1502572666778965",
@@ -16,83 +13,82 @@
             "IsCpa": false,
             "CpaImage": "https://storage.y8.com/video-igrice/html5/skibidi-toilet-rush/",
             "CpaDirection": "https://fastsvr.com/list/498307",
-		
             "max_banner": "https://fastsvr.com/list/498307",
             "inter_max": "https://fastsvr.com/list/498307",
             "Native_max": "https://fastsvr.com/list/498307",
-		
             "key_iron": "109ea4d15"
-		
         },
         "levels": [
             {
-		"maxPresCounter": "7",
+                "maxPresCounter": "7",
                 "keys": [
                     "E",
                     "R",
                     "A",
-                    "N"   ],
+                    "N"
+                ],
                 "keys2": [
                     "G",
                     "E",
                     "L",
-                    "I"   ],
+                    "I"
+                ],
                 "textAnswer": "ERANGEL",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/e/ef/PUBG_Erangel_Classic.jpg/600px-PUBG_Erangel_Classic.jpg",
-
-		   "title": "Level 1",
-		    		"link_title": "Quiz Level 1",
-
+                "title": "Level 1",
+                "link_title": "Quiz Level 1",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "text": "For driving vehicles like the buggy or motorcycle, increase gyro sensitivity for smoother control. Set it to 200-300% to handle turns and acceleration more effectively. The new Inflatable Boat is best deployed for quiet water crossings. To optimize teamwork while using it, adjust your vehicle sensitivity to 7-10 to make rowing smoother and maintain directional control effectively.",
                 "isNative": true,
                 "background": "#ffffff"
             },
-	 {
+            {
                 "maxPresCounter": "7",
                 "keys": [
                     "M",
                     "I",
                     "R",
-                    "A"   ],
+                    "A"
+                ],
                 "keys2": [
                     "M",
                     "A",
                     "R",
-                    "I"   ],
+                    "I"
+                ],
                 "textAnswer": "MIRAMAR",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/8/85/PUBG_Miramar_3.0_Map.jpg/600px-PUBG_Miramar_3.0_Map.jpg",
-
-		"title": "Level 2",
+                "title": "Level 2",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Prioritize finding a versatile weapon combination early on, such as an assault rifle and a shotgun or a sniper rifle and a close-range weapon. Customize your loadout based on your playstyle and map terrain. Remember to attach appropriate scopes and accessories for better performance. Practice with different weapons to find your preferred setup.",
+                "text": "For the SCAR-L, capitalize on its improved recoil control by setting your ADS sensitivity between 40-50. This will help you land consistent shots during mid-range engagements, especially when paired with a 3x scope. Set your ADS sensitivity for sniper scopes (6x and above) to 8-12%. This reduces over-aiming during long-range engagements and improves accuracy with weapons like the M24.",
                 "isNative": true,
                 "background": "#ffffff"
-            },	
-	 {
+            },
+            {
                 "maxPresCounter": "7",
                 "keys": [
                     "L",
                     "I",
                     "P",
-                    "O"   ],
+                    "O"
+                ],
                 "keys2": [
                     "V",
                     "K",
                     "A",
-                    "T"   ],
+                    "T"
+                ],
                 "textAnswer": "LIPOVKA",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/5/5a/Lipovka.jpg/374px-Lipovka.jpg",
-
                 "title": "Level 3",
                 "color": "#000000",
                 "text_size": "20",
@@ -100,116 +96,172 @@
                 "link_title": "Get Coins",
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Familiarize yourself with the map to plan your movements strategically. Utilize vehicles for faster rotations and to cover long distances quickly. Pay attention to the shrinking play zone and position yourself accordingly to avoid getting caught outside the safe zone. Use landmarks and terrain features to navigate efficiently and anticipate enemy movements.",
+                "text": "Adjust your camera sensitivity to 120-150% for third-person perspective. This setting improves your ability to spot enemies quickly while maintaining good control during movement.",
                 "isNative": true,
                 "background": "#ffffff"
-            },		
-	 {
+            },
+            {
                 "maxPresCounter": "6",
                 "keys": [
                     "P",
                     "I",
                     "R",
-                    "S"   ],
+                    "S"
+                ],
                 "keys2": [
                     "N",
                     "O",
                     "F",
-                    "F"   ],
+                    "F"
+                ],
                 "textAnswer": "PRISON",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/0/0f/Prison.jpg/306px-Prison.jpg",
-	        "title": "Level 4",
+                "title": "Level 4",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "text": "Enable the option to view teammate inventories in the settings. This feature is especially useful in squad matches, allowing better communication for sharing ammo or healing supplies during critical moments.",
                 "isNative": true,
                 "background": "#ffffff"
             },
-		 {
+            {
                 "maxPresCounter": "7",
                 "keys": [
                     "S",
                     "E",
                     "V",
-                    "E"   ],
+                    "E"
+                ],
                 "keys2": [
                     "R",
                     "N",
                     "E",
-                    "Y"   ],
+                    "Y"
+                ],
                 "textAnswer": "SEVERNY",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/6/6c/Severny.jpg/560px-Severny.jpg",
-	        "title": "Level 5",
-			 
+                "title": "Level 5",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
-               "setLink": "https://fastsvr.com/list/3436",
+                "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Manage your inventory wisely by prioritizing essential items like healing supplies, ammunition, and grenades. Keep an eye on your surroundings and be aware of potential threats, such as incoming gunfire or enemy footsteps. Stay on the move to avoid becoming an easy target for snipers and campers. Utilize sound cues to detect nearby enemies and plan your actions accordingly.",
+                "text": "Use a sensitivity range of 15-25 for sniper scopes to take advantage of improved sound balance updates for suppressed weapons like the Mk12. This helps with precise shots during mid-range engagements.",
                 "isNative": true,
                 "background": "#ffffff"
             },
-
-		 {
+            {
                 "maxPresCounter": "6",
                 "keys": [
                     "Z",
                     "H",
                     "A",
-                    "R"   ],
+                    "R"
+                ],
                 "keys2": [
                     "K",
                     "I",
                     "F",
-                    "F"   ],
-                "textAnswer": "PRISON",
+                    "F"
+                ],
+                "textAnswer": "ZHARKI",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/b/b0/Zharki.jpg/560px-Zharki.jpg",
-	        "title": "Level 6",
+                "title": "Level 6",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "text": "Enable peek and fire in settings. Bind the peek buttons to reachable areas on your screen, such as near the left or right side, for easier corner engagement in close-range combat.",
                 "isNative": true,
                 "background": "#ffffff"
-            }	,		
-	 {
+            },
+            {
                 "maxPresCounter": "5",
                 "keys": [
                     "T",
                     "A",
                     "E",
-                    "S"   ],
+                    "S"
+                ],
                 "keys2": [
                     "G",
                     "O",
                     "F",
-                    "F"   ],
+                    "F"
+                ],
                 "textAnswer": "TAEGO",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/6/6d/PUBG_Taego_Cover.jpg/427px-PUBG_Taego_Cover.jpg",
-	        "title": "Level 7",
+                "title": "Level 7",
                 "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "link_title": "Get Coins",
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
-                "text": "Master the art of peeking and shooting to minimize exposure and maximize your chances of survival in firefights. Use cover effectively and avoid standing still to make yourself a harder target. Coordinate with your squadmates and communicate enemy positions to gain a tactical advantage. Practice your aim and recoil control to improve your accuracy in combat situations.",
+                "text": "In squad matches, use the quick chat wheel for fast communication. Add essential phrases like Enemies ahead or I need ammo to stay coordinated without typing mid-game.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+            {
+                "maxPresCounter": "6",
+                "keys": [
+                    "V",
+                    "I",
+                    "C",
+                    "S"
+                ],
+                "keys2": [
+                    "G",
+                    "O",
+                    "T",
+                    "R"
+                ],
+                "textAnswer": "VICTOR",
+                "levelImage": "https://i.pinimg.com/564x/4a/7c/e0/4a7ce0fbc068c14eba183956f18e9dea.jpg",
+                "title": "Level 8",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Customize your button layout to fit your hand size and comfort. For example, place the fire button on the right side near your thumb and adjust its size for precision shooting..",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+            {
+                "maxPresCounter": "4",
+                "keys": [
+                    "M",
+                    "I",
+                    "5",
+                    "0"
+                ],
+                "keys2": [
+                    "4",
+                    "6",
+                    "1",
+                    "R"
+                ],
+                "textAnswer": "M416",
+                "levelImage": "https://static.wikia.nocookie.net/pubgmobile/images/8/88/Icon_M416.png",
+                "title": "Level 9",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "link_title": "Get Coins",
+                "setLink": "https://fastsvr.com/list/3436",
+                "image_link": "https://fastsvr.com/list/3436",
+                "text": "Lower your screen brightness slightly and enable anti-aliasing in the settings to reduce strain during extended sessions. It also helps in spotting enemies in dark areas.",
                 "isNative": true,
                 "background": "#ffffff"
             }
-		
-		
-           
-		
         ]
     }
 }
