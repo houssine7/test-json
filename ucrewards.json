@@ -43,7 +43,7 @@
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
                 "text": "For driving vehicles like the buggy or motorcycle, increase gyro sensitivity for smoother control. Set it to 200-300% to handle turns and acceleration more effectively. The new Inflatable Boat is best deployed for quiet water crossings. To optimize teamwork while using it, adjust your vehicle sensitivity to 7-10 to make rowing smoother and maintain directional control effectively.",
-                "isNative": true,
+                "isNative": false,
                 "background": "#ffffff"
             },
             {
