@@ -19,7 +19,7 @@
             "key_iron": "109ea4d15"
         },
         "levels": [
-		{
+            {
                 "maxPresCounter": "7",
                 "keys": ["O", "P", "T", "I"],
                 "keys2": ["M", "A", "U", "S"],
@@ -27,14 +27,14 @@
                 "levelImage": "https://www.agoramodels.com/site/assets/files/2123/optimus-prime-front-cut-out-reduced-size.png",
                 "title": "Level T1",
                 "link_title": "Autobot Drop",
-                "color": "#E31937",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "setLink": "https://pubg.com/transformers",
                 "image_link": "https://pubg.com/transformers",
                 "text": "Find Optimus Prime's crate in Erangel!",
                 "isNative": false,
-                "background": "#0F1C2B"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "8",
@@ -44,14 +44,14 @@
                 "levelImage": "https://static.wikia.nocookie.net/transformers/images/4/4f/M%C3%A9gatron.jpg/revision/latest?cb=20240425145520&path-prefix=fr",
                 "title": "Level T2",
                 "link_title": "Decepticon Boss",
-                "color": "#5D00FF",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "setLink": "https://pubg.com/transformers-boss",
                 "image_link": "https://pubg.com/transformers-boss",
                 "text": "Fight Megatron in Vikendi!",
                 "isNative": true,
-                "background": "#000000"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "6",
@@ -61,12 +61,12 @@
                 "levelImage": "https://static.wikia.nocookie.net/michaelbaystransformers/images/a/ad/Bublebee_ROTB.png/revision/latest?cb=20241102092111",
                 "title": "Level T3",
                 "link_title": "Vehicle Guide",
-                "color": "#FFC000",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": false,
                 "text": "Drive the Bumblebee PMV!",
                 "isNative": false,
-                "background": "#1A2A3A"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "7",
@@ -76,14 +76,14 @@
                 "levelImage": "https://i.pinimg.com/736x/bb/9a/67/bb9a67fd98734cc36a5557e2b25fb1f2.jpg",
                 "title": "Level T4",
                 "link_title": "Season 31",
-                "color": "#FFD700",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": true,
                 "setLink": "https://pubg.com/season31",
                 "image_link": "https://pubg.com/season31",
                 "text": "Rondo's new Astraea area!",
                 "isNative": true,
-                "background": "#2A0C4E"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "5",
@@ -93,12 +93,12 @@
                 "levelImage": "https://static.wikia.nocookie.net/transformers/images/f/fe/Cybertron_-_Great_War.png/revision/latest?cb=20190726203211",
                 "title": "Level T5",
                 "link_title": "Event Zones",
-                "color": "#00B4D8",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": false,
                 "text": "Find Cybertron zones!",
                 "isNative": false,
-                "background": "#001219"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "7",
@@ -108,12 +108,12 @@
                 "levelImage": "https://tfwiki.net/mediawiki/images2/thumb/1/10/TFUniverseJagex-Astraea.jpg/250px-TFUniverseJagex-Astraea.jpg",
                 "title": "Level T6",
                 "link_title": "Rondo Secret",
-                "color": "#9D4EDD",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": false,
                 "text": "Loot floating platforms!",
                 "isNative": true,
-                "background": "#3A0CA3"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "7",
@@ -123,14 +123,13 @@
                 "levelImage": "https://static.wikia.nocookie.net/transformers-prime/images/0/0a/Energon_%281%29.png/revision/latest?cb=20241129040053",
                 "title": "Level T7",
                 "link_title": "Transformers Loot",
-                "color": "#00FF00",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": false,
                 "text": "Collect Energon Cubes!",
                 "isNative": false,
-                "background": "#01200F"
+                "background": "#ffffff"
             },
-            
             {
                 "maxPresCounter": "5",
                 "keys": ["D", "R", "O", "N"],
@@ -139,27 +138,17 @@
                 "levelImage": "https://wstatic-prod-boc.krafton.com/pubg-legacy/sites/5/2022/01/8_Drone-1024x576.jpg",
                 "title": "Level T8",
                 "link_title": "Enemy Alert",
-                "color": "#FF0000",
+                "color": "#000000",
                 "text_size": "20",
                 "isLink": false,
                 "text": "Destroy Decepticon drones!",
                 "isNative": false,
-                "background": "#2B0000"
+                "background": "#ffffff"
             },
             {
                 "maxPresCounter": "7",
-                "keys": [
-                    "E",
-                    "R",
-                    "A",
-                    "N"
-                ],
-                "keys2": [
-                    "G",
-                    "E",
-                    "L",
-                    "I"
-                ],
+                "keys": ["E", "R", "A", "N"],
+                "keys2": ["G", "E", "L", "I"],
                 "textAnswer": "ERANGEL",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/e/ef/PUBG_Erangel_Classic.jpg/600px-PUBG_Erangel_Classic.jpg",
                 "title": "Level 1",
@@ -175,18 +164,8 @@
             },
             {
                 "maxPresCounter": "7",
-                "keys": [
-                    "M",
-                    "I",
-                    "R",
-                    "A"
-                ],
-                "keys2": [
-                    "M",
-                    "A",
-                    "R",
-                    "I"
-                ],
+                "keys": ["M", "I", "R", "A"],
+                "keys2": ["M", "A", "R", "I"],
                 "textAnswer": "MIRAMAR",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/8/85/PUBG_Miramar_3.0_Map.jpg/600px-PUBG_Miramar_3.0_Map.jpg",
                 "title": "Level 2",
@@ -202,18 +181,8 @@
             },
             {
                 "maxPresCounter": "7",
-                "keys": [
-                    "L",
-                    "I",
-                    "P",
-                    "O"
-                ],
-                "keys2": [
-                    "V",
-                    "K",
-                    "A",
-                    "T"
-                ],
+                "keys": ["L", "I", "P", "O"],
+                "keys2": ["V", "K", "A", "T"],
                 "textAnswer": "LIPOVKA",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/5/5a/Lipovka.jpg/374px-Lipovka.jpg",
                 "title": "Level 3",
@@ -229,18 +198,8 @@
             },
             {
                 "maxPresCounter": "6",
-                "keys": [
-                    "P",
-                    "I",
-                    "R",
-                    "S"
-                ],
-                "keys2": [
-                    "N",
-                    "O",
-                    "F",
-                    "F"
-                ],
+                "keys": ["P", "I", "R", "S"],
+                "keys2": ["N", "O", "F", "F"],
                 "textAnswer": "PRISON",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/0/0f/Prison.jpg/306px-Prison.jpg",
                 "title": "Level 4",
@@ -256,18 +215,8 @@
             },
             {
                 "maxPresCounter": "7",
-                "keys": [
-                    "S",
-                    "E",
-                    "V",
-                    "E"
-                ],
-                "keys2": [
-                    "R",
-                    "N",
-                    "E",
-                    "Y"
-                ],
+                "keys": ["S", "E", "V", "E"],
+                "keys2": ["R", "N", "E", "Y"],
                 "textAnswer": "SEVERNY",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/6/6c/Severny.jpg/560px-Severny.jpg",
                 "title": "Level 5",
@@ -283,18 +232,8 @@
             },
             {
                 "maxPresCounter": "6",
-                "keys": [
-                    "Z",
-                    "H",
-                    "A",
-                    "R"
-                ],
-                "keys2": [
-                    "K",
-                    "I",
-                    "F",
-                    "F"
-                ],
+                "keys": ["Z", "H", "A", "R"],
+                "keys2": ["K", "I", "F", "F"],
                 "textAnswer": "ZHARKI",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/b/b0/Zharki.jpg/560px-Zharki.jpg",
                 "title": "Level 6",
@@ -310,18 +249,8 @@
             },
             {
                 "maxPresCounter": "5",
-                "keys": [
-                    "T",
-                    "A",
-                    "E",
-                    "S"
-                ],
-                "keys2": [
-                    "G",
-                    "O",
-                    "F",
-                    "F"
-                ],
+                "keys": ["T", "A", "E", "S"],
+                "keys2": ["G", "O", "F", "F"],
                 "textAnswer": "TAEGO",
                 "levelImage": "https://liquipedia.net/commons/images/thumb/6/6d/PUBG_Taego_Cover.jpg/427px-PUBG_Taego_Cover.jpg",
                 "title": "Level 7",
@@ -337,18 +266,8 @@
             },
             {
                 "maxPresCounter": "6",
-                "keys": [
-                    "V",
-                    "I",
-                    "C",
-                    "S"
-                ],
-                "keys2": [
-                    "G",
-                    "O",
-                    "T",
-                    "R"
-                ],
+                "keys": ["V", "I", "C", "S"],
+                "keys2": ["G", "O", "T", "R"],
                 "textAnswer": "VICTOR",
                 "levelImage": "https://i.pinimg.com/564x/4a/7c/e0/4a7ce0fbc068c14eba183956f18e9dea.jpg",
                 "title": "Level 8",
@@ -364,18 +283,8 @@
             },
             {
                 "maxPresCounter": "4",
-                "keys": [
-                    "M",
-                    "I",
-                    "5",
-                    "0"
-                ],
-                "keys2": [
-                    "4",
-                    "6",
-                    "1",
-                    "R"
-                ],
+                "keys": ["M", "I", "5", "0"],
+                "keys2": ["4", "6", "1", "R"],
                 "textAnswer": "M416",
                 "levelImage": "https://static.wikia.nocookie.net/pubgmobile/images/8/88/Icon_M416.png",
                 "title": "Level 9",
@@ -391,18 +300,8 @@
             },
             {
                 "maxPresCounter": "5",
-                "keys": [
-                    "M",
-                    "S",
-                    "C",
-                    "0"
-                ],
-                "keys2": [
-                    "A",
-                    "R",
-                    "L",
-                    "R"
-                ],
+                "keys": ["M", "S", "C", "0"],
+                "keys2": ["A", "R", "L", "R"],
                 "textAnswer": "SCARL",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-scar-l.png",
                 "title": "Level 10",
@@ -418,18 +317,8 @@
             },
             {
                 "maxPresCounter": "5",
-                "keys": [
-                    "M",
-                    "G",
-                    "R",
-                    "O"
-                ],
-                "keys2": [
-                    "Z",
-                    "A",
-                    "1",
-                    "R"
-                ],
+                "keys": ["M", "G", "R", "O"],
+                "keys2": ["Z", "A", "1", "R"],
                 "textAnswer": "GROZA",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-groza.png",
                 "title": "Level 11",
@@ -445,18 +334,8 @@
             },
             {
                 "maxPresCounter": "7",
-                "keys": [
-                    "M",
-                    "O",
-                    "L",
-                    "0"
-                ],
-                "keys2": [
-                    "T",
-                    "O",
-                    "V",
-                    "O"
-                ],
+                "keys": ["M", "O", "L", "0"],
+                "keys2": ["T", "O", "V", "O"],
                 "textAnswer": "MOLOTOV",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-molotov_cocktail.png",
                 "title": "Level 12",
@@ -472,18 +351,8 @@
             },
             {
                 "maxPresCounter": "5",
-                "keys": [
-                    "M",
-                    "I",
-                    "W",
-                    "I"
-                ],
-                "keys2": [
-                    "N",
-                    "6",
-                    "9",
-                    "4"
-                ],
+                "keys": ["M", "I", "W", "I"],
+                "keys2": ["N", "6", "9", "4"],
                 "textAnswer": "WIN94",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-win94.png",
                 "title": "Level 13",
@@ -499,18 +368,8 @@
             },
             {
                 "maxPresCounter": "4",
-                "keys": [
-                    "M",
-                    "I",
-                    "B",
-                    "R"
-                ],
-                "keys2": [
-                    "D",
-                    "M",
-                    "1",
-                    "R"
-                ],
+                "keys": ["M", "I", "B", "R"],
+                "keys2": ["D", "M", "1", "R"],
                 "textAnswer": "BRDM",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/vehicles/images/viewer/img-vehicles-brdm.png",
                 "title": "Level 14",
@@ -526,18 +385,8 @@
             },
             {
                 "maxPresCounter": "6",
-                "keys": [
-                    "M",
-                    "I",
-                    "R",
-                    "A"
-                ],
-                "keys2": [
-                    "D",
-                    "O",
-                    "1",
-                    "R"
-                ],
+                "keys": ["M", "I", "R", "A"],
+                "keys2": ["D", "O", "1", "R"],
                 "textAnswer": "MIRADO",
                 "levelImage": "https://wstatic-prod.pubg.com/web/live/static/game-info/vehicles/images/viewer/img-vehicles-mirado.png",
                 "title": "Level 15",
@@ -551,8 +400,6 @@
                 "isNative": true,
                 "background": "#ffffff"
             }
-
-
         ]
     }
 }
