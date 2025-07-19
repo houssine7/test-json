@@ -20,9 +20,9 @@
         },
         "levels": [
 		{
-                "maxPresCounter": "5",
+                "maxPresCounter": "7",
                 "keys": ["O", "P", "T", "I"],
-                "keys2": ["M", "A", "S", "S"],
+                "keys2": ["M", "A", "U", "S"],
                 "textAnswer": "OPTIMUS", 
                 "levelImage": "https://www.agoramodels.com/site/assets/files/2123/optimus-prime-front-cut-out-reduced-size.png",
                 "title": "Level T1",
@@ -37,7 +37,7 @@
                 "background": "#0F1C2B"
             },
             {
-                "maxPresCounter": "6",
+                "maxPresCounter": "8",
                 "keys": ["M", "E", "G", "A"],
                 "keys2": ["T", "R", "O", "N"],
                 "textAnswer": "MEGATRON", 
@@ -54,7 +54,7 @@
                 "background": "#000000"
             },
             {
-                "maxPresCounter": "5",
+                "maxPresCounter": "6",
                 "keys": ["B", "U", "M", "B"],
                 "keys2": ["L", "E", "E", "R"],
                 "textAnswer": "BUMBLE", 
@@ -86,7 +86,7 @@
                 "background": "#2A0C4E"
             },
             {
-                "maxPresCounter": "6",
+                "maxPresCounter": "5",
                 "keys": ["C", "Y", "B", "E"],
                 "keys2": ["R", "T", "O", "N"],
                 "textAnswer": "CYBER", 
@@ -101,7 +101,7 @@
                 "background": "#001219"
             },
             {
-                "maxPresCounter": "5",
+                "maxPresCounter": "7",
                 "keys": ["A", "S", "T", "R"],
                 "keys2": ["A", "E", "A", "Y"],
                 "textAnswer": "ASTRAEA", 
@@ -116,7 +116,7 @@
                 "background": "#3A0CA3"
             },
             {
-                "maxPresCounter": "4",
+                "maxPresCounter": "7",
                 "keys": ["E", "N", "E", "R"],
                 "keys2": ["G", "O", "N", "X"],
                 "textAnswer": "ENERGON", 
