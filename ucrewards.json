@@ -19,40 +19,7 @@
             "key_iron": "109ea4d15"
         },
        "levels": [
-            {
-                "maxPresCounter": "7",
-                "keys": ["O", "P", "T", "I"],
-                "keys2": ["M", "A", "U", "S"],
-                "textAnswer": "OPTIMUS", 
-                "levelImage": "https://www.agoramodels.com/site/assets/files/2123/optimus-prime-front-cut-out-reduced-size.png",
-                "title": "Level T1",
-                "link_title": "Autobot Drop",
-                "color": "#000000",
-                "text_size": "20",
-                "isLink": true,
-                "setLink": "https://pubg.com/transformers",
-                "image_link": "https://pubg.com/transformers",
-                "text": "Find Optimus Prime's crate in Erangel!",
-                "isNative": false,
-                "background": "#ffffff"
-            },
-            {
-                "maxPresCounter": "8",
-                "keys": ["M", "E", "G", "A"],
-                "keys2": ["T", "R", "O", "N"],
-                "textAnswer": "MEGATRON", 
-                "levelImage": "https://static.wikia.nocookie.net/transformers/images/4/4f/M%C3%A9gatron.jpg/revision/latest?cb=20240425145520&path-prefix=fr",
-                "title": "Level T2",
-                "link_title": "Decepticon Boss",
-                "color": "#000000",
-                "text_size": "20",
-                "isLink": true,
-                "setLink": "https://pubg.com/transformers-boss",
-                "image_link": "https://pubg.com/transformers-boss",
-                "text": "Fight Megatron in Vikendi!",
-                "isNative": true,
-                "background": "#ffffff"
-            },
+            
            {
                 "maxPresCounter": "7",
                 "keys": ["E", "R", "A", "N"],
@@ -271,6 +238,40 @@
                 "setLink": "https://fastsvr.com/list/3436",
                 "image_link": "https://fastsvr.com/list/3436",
                 "text": "Lower your screen brightness slightly and enable anti-aliasing in the settings to reduce strain during extended sessions. It also helps in spotting enemies in dark areas.",
+                "isNative": true,
+                "background": "#ffffff"
+            },
+		   {
+                "maxPresCounter": "7",
+                "keys": ["O", "P", "T", "I"],
+                "keys2": ["M", "A", "U", "S"],
+                "textAnswer": "OPTIMUS", 
+                "levelImage": "https://www.agoramodels.com/site/assets/files/2123/optimus-prime-front-cut-out-reduced-size.png",
+                "title": "Level T1",
+                "link_title": "Autobot Drop",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "setLink": "https://pubg.com/transformers",
+                "image_link": "https://pubg.com/transformers",
+                "text": "Find Optimus Prime's crate in Erangel!",
+                "isNative": false,
+                "background": "#ffffff"
+            },
+            {
+                "maxPresCounter": "8",
+                "keys": ["M", "E", "G", "A"],
+                "keys2": ["T", "R", "O", "N"],
+                "textAnswer": "MEGATRON", 
+                "levelImage": "https://static.wikia.nocookie.net/transformers/images/4/4f/M%C3%A9gatron.jpg/revision/latest?cb=20240425145520&path-prefix=fr",
+                "title": "Level T2",
+                "link_title": "Decepticon Boss",
+                "color": "#000000",
+                "text_size": "20",
+                "isLink": true,
+                "setLink": "https://pubg.com/transformers-boss",
+                "image_link": "https://pubg.com/transformers-boss",
+                "text": "Fight Megatron in Vikendi!",
                 "isNative": true,
                 "background": "#ffffff"
             }
